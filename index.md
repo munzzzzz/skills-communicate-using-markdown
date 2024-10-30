@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Write a function to calculate the area of a circle
+- [ ] Implement error handling for user input
+- [ ] Test the function with different values
+- [ ] Document the code
